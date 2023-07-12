@@ -180,8 +180,6 @@ print("Hello Python!")
 # MAGIC Images:
 # MAGIC ![Spark Engines](https://files.training.databricks.com/images/Apache-Spark-Logo_TM_200px.png)
 # MAGIC
-# MAGIC Images:
-# MAGIC ![Data Bricks Co-Founder](https://upload.wikimedia.org/wikipedia/commons/6/6b/Ali_Ghodsi.jpg)
 # MAGIC
 # MAGIC And of course, tables:
 # MAGIC
